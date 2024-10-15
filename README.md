@@ -4,7 +4,7 @@
 The Project has been done in 15/10/2024 
 
 ### Project Title
-Bikeshare.py
+Bikeshare.py file
 
 ### Description
 The project is the learning path in version control provided by udacity in order to master the documentation of the projects.
